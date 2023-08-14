@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main ()
+
+{
+
+    {
+        /* parte 1: é onde declaramos e iniciamos a nossa variael
+        parte 2: é a condiçao
+        parte 3: é aonde nós incrementamos a nossa variavel*/
+    
+    for (int i =0; i<=10; ++i){
+        printf("%i\n", i);
+    }
+    }
+    return 0;
+}
